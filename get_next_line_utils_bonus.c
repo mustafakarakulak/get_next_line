@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mkarakul <mkarakul@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/01/05 18:49:20 by mkarakul          #+#    #+#             */
-/*   Updated: 2023/01/09 15:59:48 by mkarakul         ###   ########.fr       */
+/*   Created: 2023/01/09 00:54:17 by mkarakul          #+#    #+#             */
+/*   Updated: 2023/01/09 00:57:01 by mkarakul         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	ft_n(char *s1)
 {
